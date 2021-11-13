@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ##Project Description
 
 A simple task tracker using angular
-![Screenshot of the project](src/assets/Screen Shot 2021-11-13 at 8.41.31 PM.png)
+![Screenshot of the project](src/assets/screenshot.png?raw=true)
 
 ## Development server
 
